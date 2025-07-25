@@ -1,7 +1,7 @@
 import { describe, expect, test } from 'vitest'
 
 const person = {
-    isActive: false,  // Temporarily breaking the test
+    isActive: true,  // Temporarily breaking the test
     age: 32
 }
 
